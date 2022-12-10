@@ -6,7 +6,7 @@ layout: home
 title: nostuff.org
 ---
 
-I'm Chris Keene. I'm based in Brighton, UK. nostuff.org has been my home on the web since around 2002.
+I'm Chris Keene.1 I'm based in Brighton, UK. nostuff.org has been my home on the web since around 2002.
 
 My work is focused on digital libraries and scholarly communications, and innovative technology to support them.
 
