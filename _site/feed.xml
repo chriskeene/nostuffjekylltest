@@ -1,29 +1,29 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.2">Jekyll</generator><link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:4000/" rel="alternate" type="text/html" /><updated>2022-12-10T10:27:15-06:00</updated><id>http://0.0.0.0:4000/feed.xml</id><title type="html">Chris Keene - nostuff.org</title><subtitle>nostuff.org is the website of Chris Keene 
-</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://0.0.0.0:4000/jekyll/update/2022/12/10/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2022-12-10T09:28:35-06:00</published><updated>2022-12-10T09:28:35-06:00</updated><id>http://0.0.0.0:4000/jekyll/update/2022/12/10/welcome-to-jekyll</id><content type="html" xml:base="http://0.0.0.0:4000/jekyll/update/2022/12/10/welcome-to-jekyll.html">&lt;p&gt;I’m Chris Keene. I’m based in Brighton, UK. nostuff.org has been my home on the web since around 2002.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.1">Jekyll</generator><link href="http://0.0.0.0:4000/test/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:4000/test/" rel="alternate" type="text/html" /><updated>2022-12-10T12:41:07-06:00</updated><id>http://0.0.0.0:4000/test/feed.xml</id><title type="html">Chris Keene - nostuff.org</title><subtitle>nostuff.org is the website of Chris Keene 
+</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://0.0.0.0:4000/test/jekyll/update/2022/12/10/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2022-12-10T09:28:35-06:00</published><updated>2022-12-10T09:28:35-06:00</updated><id>http://0.0.0.0:4000/test/jekyll/update/2022/12/10/welcome-to-jekyll</id><content type="html" xml:base="http://0.0.0.0:4000/test/jekyll/update/2022/12/10/welcome-to-jekyll.html"><![CDATA[<p>I’m Chris Keene. I’m based in Brighton, UK. nostuff.org has been my home on the web since around 2002.</p>
 
-&lt;p&gt;My work is focused on digital libraries and scholarly communications, and innovative technology to support them.&lt;/p&gt;
+<p>My work is focused on digital libraries and scholarly communications, and innovative technology to support them.</p>
 
-&lt;p&gt;I currently work at Jisc in London, overseeing projects and initatives to support and transform libraries and scholarly comms. I previously worked at the University of Sussex Library, overseeing technology related development, including discovery, online content, and open access.&lt;/p&gt;
+<p>I currently work at Jisc in London, overseeing projects and initatives to support and transform libraries and scholarly comms. I previously worked at the University of Sussex Library, overseeing technology related development, including discovery, online content, and open access.</p>
 
-&lt;p&gt;You will find a collection of articles, ramblings and unchecked grammar in something that looks suspiciously like a blog.&lt;/p&gt;
+<p>You will find a collection of articles, ramblings and unchecked grammar in something that looks suspiciously like a blog.</p>
 
-&lt;p&gt;You can also find me at:&lt;/p&gt;
+<p>You can also find me at:</p>
 
-&lt;p&gt;140280 characters or less
+<p>140280 characters or less
 read an exaggerated, yet dull, version of me on Linkedin
 photos on Flickr, and also, more selectively, on instagram.
 a collection of very random notes I kept on technical things while working at the Sussex University Library.
 You can contact me by email, chriskeene gmailcom (you can work it out).
-Chris Keene, 2020&lt;/p&gt;
+Chris Keene, 2020</p>
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+<p>To add new posts, simply add a file in the <code class="language-plaintext highlighter-rouge">_posts</code> directory that follows the convention <code class="language-plaintext highlighter-rouge">YYYY-MM-DD-name-of-post.ext</code> and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+<p>Jekyll also offers powerful support for code snippets:</p>
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
+  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
+<span class="k">end</span>
+<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
+<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
 
-&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">I’m Chris Keene. I’m based in Brighton, UK. nostuff.org has been my home on the web since around 2002.</summary></entry></feed>
+<p>Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[I’m Chris Keene. I’m based in Brighton, UK. nostuff.org has been my home on the web since around 2002.]]></summary></entry></feed>
