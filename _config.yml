@@ -17,7 +17,7 @@ title: Chris Keene - nostuff.org
 email: chriskeene@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   nostuff.org is the website of Chris Keene 
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/test" # the subpath of your site, e.g. /blog
 url: "https://www.nostuff.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: chriskeene
 github_username:  chriskeene
