@@ -11,7 +11,7 @@ title: nostuff.org
 I'm Chris Keene. I'm based in Brighton, UK. nostuff.org has been my home on the web since around 2002.
 
 
-My work so far has been around technology and digital environments in academic libraries and research. I currently  [work at Jisc](https://www.jisc.ac.uk/)  managing the technology and data that underpinds their library and research services. I previously worked at the University of Sussex Library, overseeing technology related development.
+My background is in technology in academic libraries, research and higher education. 
 
 You will find a collection of  [articles, ramblings and unchecked grammar in something that looks suspiciously like a blog](https://www.nostuff.org/words/).
 
